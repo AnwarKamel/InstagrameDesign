@@ -1,7 +1,6 @@
 # Facebook Login Page Design
 
-## Introduction
-Simple Design for  Instagram Login page
+## Simple Design for  Instagram Login page
 <img src="assets/img.PNG" alt="drawing" width="400"/>
 ## Screen
 
